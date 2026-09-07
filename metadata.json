@@ -1,0 +1,6 @@
+{
+  "name": "Product Promo Image Generator",
+  "description": "An elegant, responsive web app to design and batch generate promotional sneaker images for Instagram Stories and posts, with a built-in cost calculator, IndexedDB persistence, ZIP exports, and real-time canvas customizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
